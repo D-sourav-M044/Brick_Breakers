@@ -1,5 +1,5 @@
 # Brick_Breakers
- A simple shoting Bricks breaking game. It is developped with pygame of Python.
+ A simple shooting Bricks breaking game. It is developped with pygame of Python.
  
  This is the demo video for this game.
  
